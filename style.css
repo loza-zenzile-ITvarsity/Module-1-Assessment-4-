@@ -1,0 +1,25 @@
+h1{
+	color:green;
+	text-align: center;
+	font-family: verdana;
+  font-size: 50px;
+	
+}
+table {
+  border-collapse: collapse;
+	width: 75%;
+	height: 70px;
+	text-align: left;\
+	tr:nth-child(even) 
+		 margin: 25px;
+	 background-color: lightgrey;
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+   font-size: 18px;
+}
+th {
+  background-color: green;
+  color: white;
+   font-size: 20px;
+}
